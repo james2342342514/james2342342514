@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @james2342342514
+- 👋 Hi, I’m @james2342342514. I'm a Data Science & Economics major at American University 
 - 👀 I’m interested in econometrics, simple machine learning
 - 🌱 I’m currently learning k-nearest neighbors, LOOCV, boostrapping, ridge regression. 
 - 📫 How to reach me: jt1024a@american.edu
